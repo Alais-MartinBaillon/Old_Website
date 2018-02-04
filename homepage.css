@@ -133,6 +133,15 @@ h4 {
     text-align: left;
 }
 
+h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: left;
+}
+
 #page-head {
     padding-bottom: 30px;
     border-bottom: 1px solid #e0e0e0;
@@ -179,6 +188,12 @@ img {
 p {
     text-align: justify;
 }
+
+
+.marge {
+margin-left: 4.5em;
+}
+
 
 
 
